@@ -27,7 +27,7 @@ int n = Convert.ToInt32(Console.ReadLine());
 if ((n % 7 == 0) && (n % 23 == 0))
 Console.WriteLine("ДА");
 else
-Console.WriteLine("Нет");*/
+Console.WriteLine("Нет");
 
 Console.WriteLine("Введите первое число: ");
 int a = Convert.ToInt32(Console.ReadLine());
@@ -37,3 +37,38 @@ if ( (a == b * b) || (b == a * a))
 Console.WriteLine("Да");
 else
 Console.WriteLine("Нет");
+
+Console.Clear();
+
+Console.Write("Введите четверть: ");
+double x = Convert.ToDouble(Console.ReadLine());
+
+if (x == 1)
+    Console.WriteLine("x > 0 && y > 0");
+else if (x == 2)
+    Console.WriteLine("x < 0 && y > 0");
+else if (x == 3)
+    Console.WriteLine("x < 0 && y < 0");
+else if (x == 4)
+    Console.WriteLine("x > 0 && y < 0");
+else
+    Console.WriteLine("ошибка");
+
+
+Console.Write("Введите x1: ");
+double x1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите y1: ");
+double y1 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите x2: ");
+double x2 = Convert.ToDouble(Console.ReadLine());
+Console.Write("Введите y2: ");
+double y2 = Convert.ToDouble(Console.ReadLine());
+double z = 0;
+z = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
+Console.Write(z);*/
+
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+for (int i = 1; i <= n; i++)
+    Console.Write(Math.Pow(i, 2) );
