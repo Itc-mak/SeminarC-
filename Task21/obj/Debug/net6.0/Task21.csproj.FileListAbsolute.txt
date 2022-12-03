@@ -1,0 +1,15 @@
+/Users/maksimickov/Desktop/Seminar1/Task21/bin/Debug/net6.0/Task21
+/Users/maksimickov/Desktop/Seminar1/Task21/bin/Debug/net6.0/Task21.deps.json
+/Users/maksimickov/Desktop/Seminar1/Task21/bin/Debug/net6.0/Task21.runtimeconfig.json
+/Users/maksimickov/Desktop/Seminar1/Task21/bin/Debug/net6.0/Task21.dll
+/Users/maksimickov/Desktop/Seminar1/Task21/bin/Debug/net6.0/Task21.pdb
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.csproj.AssemblyReference.cache
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.AssemblyInfoInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.AssemblyInfo.cs
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.csproj.CoreCompileInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.dll
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/refint/Task21.dll
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.pdb
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/Task21.genruntimeconfig.cache
+/Users/maksimickov/Desktop/Seminar1/Task21/obj/Debug/net6.0/ref/Task21.dll
