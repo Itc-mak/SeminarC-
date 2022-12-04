@@ -65,10 +65,50 @@ Console.Write("Введите y2: ");
 double y2 = Convert.ToDouble(Console.ReadLine());
 double z = 0;
 z = Math.Sqrt(Math.Pow(x1 - x2, 2) + Math.Pow(y1 - y2, 2));
-Console.Write(z);*/
+Console.Write(z);
 
 
 Console.Write("Введите число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 for (int i = 1; i <= n; i++)
-    Console.Write(Math.Pow(i, 2) + " " );
+    Console.Write(Math.Pow(i, 2) + " " ); 
+
+
+Console.WriteLine("Введите число элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int [] array = new int[n];
+for (int i = 0; i < array.Length; i++)
+{
+    Console.WriteLine("Введит элемент массива: ");
+    array[i] = Convert.ToInt32(Console.ReadLine());
+}
+Console.WriteLine($"[{string.Join(", ", array)}]"); 
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int res =1;
+while (n / 10 != 0)
+{
+    n /= 10;
+    res++;
+}
+Console.WriteLine(res);
+
+
+Console.Write("Введите число: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int i = 0;
+int res =1;
+for (i = 2; i <= n; i++)
+{
+   res = res * i;
+}
+Console.WriteLine(res);*/ 
+
+
+Console.WriteLine("Введите число элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int [] array = new int[8];
+for (int i = 0; i < array.Length; i++)
+    array[i] = new Random().Next(0, 2);
+Console.WriteLine($"[{string.Join(", ", array)}]"); 
