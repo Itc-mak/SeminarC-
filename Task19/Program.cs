@@ -1,5 +1,5 @@
 ﻿Console.Write("Введите пятизначное число: ");
-string c = Console.ReadLine();
+string c = Convert.ToString(Console.ReadLine());;
 int len = c.Length;
 if (len<=4 || len>=6)
 Console.WriteLine("Ошибка, число не пятизначное. Попробуйте сначала");
