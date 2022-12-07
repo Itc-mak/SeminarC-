@@ -95,15 +95,7 @@ while (n / 10 != 0)
 Console.WriteLine(res);
 
 
-Console.Write("Введите число: ");
-int n = Convert.ToInt32(Console.ReadLine());
-int i = 0;
-int res =1;
-for (i = 2; i <= n; i++)
-{
-   res = res * i;
-}
-Console.WriteLine(res);*/ 
+ 
 
 
 Console.WriteLine("Введите число элементов массива: ");

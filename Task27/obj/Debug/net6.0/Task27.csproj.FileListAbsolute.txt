@@ -1,0 +1,15 @@
+/Users/maksimickov/Desktop/Seminar1/Task27/bin/Debug/net6.0/Task27
+/Users/maksimickov/Desktop/Seminar1/Task27/bin/Debug/net6.0/Task27.deps.json
+/Users/maksimickov/Desktop/Seminar1/Task27/bin/Debug/net6.0/Task27.runtimeconfig.json
+/Users/maksimickov/Desktop/Seminar1/Task27/bin/Debug/net6.0/Task27.dll
+/Users/maksimickov/Desktop/Seminar1/Task27/bin/Debug/net6.0/Task27.pdb
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.csproj.AssemblyReference.cache
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.AssemblyInfoInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.AssemblyInfo.cs
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.csproj.CoreCompileInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.dll
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/refint/Task27.dll
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.pdb
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/Task27.genruntimeconfig.cache
+/Users/maksimickov/Desktop/Seminar1/Task27/obj/Debug/net6.0/ref/Task27.dll
