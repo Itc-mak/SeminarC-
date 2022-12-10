@@ -38,9 +38,160 @@ while (i <= n)
 {
     Console.Write($"{i} ");
     i =i+1;
-}*/
+}
 Console.Write("Введите  число: ");
 int n = Convert.ToInt32(Console.ReadLine());
 int i = n * (-1)
 for (int i + (-1)*n; i<=n;  i++)
-    Console.Write(i + " ");
+    Console.Write(i + " ");*/
+
+
+    
+
+// task 31
+
+
+/*void InputArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = new Random().Next(-9, 10); // [-9, 9]
+}
+
+
+void ReleaseArray(int[] array)
+{
+int sumNegative = 0, sumPositive = 0;
+for (int i = 0; i < array.Length; i++)
+{
+if (array[i] > 0)
+sumPositive += array[i];
+else
+sumNegative += array[i];
+}
+Console.WriteLine($"Сумма положительных чисел равна {sumPositive}");
+Console.WriteLine($"Сумма отрицательных чисел равна {sumNegative}");
+}
+
+
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+InputArray(array);
+Console.WriteLine($"[{string.Join(", ", array)}]");
+ReleaseArray(array);*/
+
+
+// task 32
+
+/*
+void InputArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = new Random().Next(-9, 10); // [-9, 9]
+}
+
+void ReleaseArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = array [i] * (-1);
+}
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+InputArray(array);
+Console.WriteLine($"[{string.Join(", ", array)}]");
+ReleaseArray(array);
+Console.WriteLine($"[{string.Join(", ", array)}]");
+*/
+
+
+// task 32
+
+/*
+void InputArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = new Random().Next(-9, 10); // [-9, 9]
+}
+
+
+void ReleaseArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] *= (-1);
+}
+
+
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+InputArray(array);
+Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
+ReleaseArray(array);
+Console.WriteLine($"Конечный массив: [{string.Join(", ", array)}]");
+*/
+
+// task 33
+
+/*
+void InputArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = new Random().Next(-9, 10); // [-9, 9]
+}
+
+
+string ReleaseArray(int[] array, int k)
+{
+for (int i = 0; i < array.Length; i++)
+{
+if (array[i] == k)
+return "yes";
+}
+return "no";
+}
+
+
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+InputArray(array);
+Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
+Console.Write("Введите число, которое нужно найти в массиве: ");
+int k = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(ReleaseArray(array, k));
+
+
+//task 35
+
+void InputArray(int[] array)
+{
+for (int i = 0; i < array.Length; i++)
+array[i] = new Random().Next(-9, 100); // [-9, 9]
+}
+
+
+int ReleaseArray(int[] array)
+{
+    int count = 0;
+for (int i = 0; i < array.Length; i++)
+{
+if (array[i] >= 10 && array[i] <= 99)
+count++;
+}
+return count;
+}
+
+
+Console.Clear();
+Console.Write("Введите кол-во элементов массива: ");
+int n = Convert.ToInt32(Console.ReadLine());
+int[] array = new int[n];
+InputArray(array);
+Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
+Console.WriteLine(ReleaseArray(array));  */
+
