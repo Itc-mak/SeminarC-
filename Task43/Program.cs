@@ -6,5 +6,5 @@ Console.Write("Введите b2: ");
 double b2 = Convert.ToInt32(Console.ReadLine());
 Console.Write("Введите k2: ");
 double k2 = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine((b2-b1) / (k2-k1));
-Console.WriteLine(k1 * (b2-b1) / (k2-k1) + b1);
+Console.WriteLine((b2-b1) / (k1-k2));
+Console.WriteLine(k1 * ((b2-b1) / (k1-k2)) + b1);

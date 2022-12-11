@@ -1,0 +1,15 @@
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.csproj.AssemblyReference.cache
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.AssemblyInfoInputs.cache
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.AssemblyInfo.cs
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.csproj.CoreCompileInputs.cache
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/bin/Debug/net6.0/DopTriangle
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/bin/Debug/net6.0/DopTriangle.deps.json
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/bin/Debug/net6.0/DopTriangle.runtimeconfig.json
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/bin/Debug/net6.0/DopTriangle.dll
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/bin/Debug/net6.0/DopTriangle.pdb
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.dll
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/refint/DopTriangle.dll
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.pdb
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/DopTriangle.genruntimeconfig.cache
+/Users/maksimickov/Desktop/Seminar1/DopTriangle/obj/Debug/net6.0/ref/DopTriangle.dll
