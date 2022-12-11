@@ -195,3 +195,51 @@ InputArray(array);
 Console.WriteLine($"Начальный массив: [{string.Join(", ", array)}]");
 Console.WriteLine(ReleaseArray(array));  */
 
+
+//Task40
+/*Console.WriteLine("Введите первое число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите второе число: ");
+int b = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Введите третье число: ");
+int c = Convert.ToInt32(Console.ReadLine());
+if ((a < b + c) && (b < a + c) && (c < a+c))
+Console.WriteLine("Да");
+else
+Console.WriteLine("No");*/
+
+//Task42 
+/*
+Console.WriteLine("Введитe число: ");
+int a = Convert.ToInt32(Console.ReadLine());
+string result = String.Empty;
+while (n > 0)
+{
+result = Convert.ToString(n % 2) + result;
+n /= 2;
+}
+Console.WriteLine(result);*/
+
+//Task44
+/*
+Console.WriteLine("Введитe число:  ");
+int n = Convert.ToInt32(Console.ReadLine());
+int a0 = 0, a1 = 1, x;
+for (int i = 0; i < n; i++)
+{
+Console.Write($"{a0} ");
+x = a0 + a1;
+a0 = a1;
+a1 = x;
+} */
+
+//Task45
+nt[] a = {1, 2, 3, 4, 5};
+int[] b = new int[a.Length];
+
+for (int i = 0; i < a.Length; i++)
+b[i] = a[i];
+
+b[0] = -1;
+Console.WriteLine($"[{string.Join(", ", a)}]");
+Console.WriteLine($"[{string.Join(", ", b)}]");
