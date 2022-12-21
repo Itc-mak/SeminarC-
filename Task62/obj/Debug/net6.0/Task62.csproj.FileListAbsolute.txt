@@ -1,0 +1,15 @@
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.csproj.AssemblyReference.cache
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.AssemblyInfoInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.AssemblyInfo.cs
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.csproj.CoreCompileInputs.cache
+/Users/maksimickov/Desktop/Seminar1/Task62/bin/Debug/net6.0/Task62
+/Users/maksimickov/Desktop/Seminar1/Task62/bin/Debug/net6.0/Task62.deps.json
+/Users/maksimickov/Desktop/Seminar1/Task62/bin/Debug/net6.0/Task62.runtimeconfig.json
+/Users/maksimickov/Desktop/Seminar1/Task62/bin/Debug/net6.0/Task62.dll
+/Users/maksimickov/Desktop/Seminar1/Task62/bin/Debug/net6.0/Task62.pdb
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.dll
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/refint/Task62.dll
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.pdb
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/Task62.genruntimeconfig.cache
+/Users/maksimickov/Desktop/Seminar1/Task62/obj/Debug/net6.0/ref/Task62.dll
