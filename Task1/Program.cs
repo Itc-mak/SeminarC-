@@ -244,7 +244,6 @@ b[i] = a[i];
 b[0] = -1;
 Console.WriteLine($"[{string.Join(", ", a)}]");
 Console.WriteLine($"[{string.Join(", ", b)}]");
-*/
 
 void InputMatrix(int[, ] matrix)
 {
@@ -282,4 +281,40 @@ int[,] matrix = new int[coord[0], coord[1]];
 Console.WriteLine("Начальная матрица: ");
 InputMatrix(matrix);
 Console.WriteLine("Результат: ");
-ReleaseMatrix(matrix);
+ReleaseMatrix(matrix); */
+
+void InputMatrix(int[,] matrix)
+{
+    for (int i = 0; i < matrix.GetLength(0); i++)
+    {
+        for (int j = 0; j < matrix.GetLength(1); j++)
+        {
+            matrix[i, j] = new Random().Next(1, 11); // [1, 10]
+            Console.Write($"{matrix[i, j]} \t");
+        }
+        Console.WriteLine();
+    }
+}
+
+
+void SwapFirstLastString(int[,] matrix)
+{
+    if matrix.GetLength(0) = matrix.GetLength(1);
+    for (int j = 0; j < matrix.GetLength(1); j++)
+    {
+        int temp = matrix[i, j];
+        matrix[i, j] = matrix[matrix.GetLength(0) - 1, matrix.GetLength(1) - 1];
+        matrix[matrix.GetLength(0) - 1, matrix.GetLength(1) - 1] = temp;
+    }
+    else
+    Console.WriteLine(" невозможно");
+   
+}
+
+Console.Clear();
+Console.Write("Введите размер матрицы: ");
+int[] coord = Console.ReadLine().Split(" ").Select(x => int.Parse(x)).ToArray();
+int[,] matrix = new int[coord[0], coord[1]];
+InputMatrix(matrix);
+Console.WriteLine("\n\n");
+SwapFirstLastString(matrix);
